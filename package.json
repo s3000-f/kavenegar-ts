@@ -7,6 +7,14 @@
   "engines": {
     "node": ">= 16 < 21"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/s3000-f/kavenegar-ts"
+  },
+  "bugs": {
+    "url": "https://github.com/s3000-f/kavenegar-ts/issues"
+  },
+  "homepage": "https://github.com/s3000-f/kavenegar-ts#readme",
   "devDependencies": {
     "@types/jest": "~29.5",
     "@types/node": "~20",
