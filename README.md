@@ -1,6 +1,5 @@
 # Kavenegar-TS
 
-[![Sponsor][sponsor-badge]][sponsor]
 [![TypeScript version][ts-badge]][typescript-5-4]
 [![Node.js version][nodejs-badge]][nodejs]
 [![APLv2][license-badge]][license]
@@ -162,7 +161,7 @@ Licensed under the APLv2. See the [LICENSE](https://github.com/jsynowiec/node-ty
 [gha-ci]: https://github.com/jsynowiec/node-typescript-boilerplate/actions/workflows/nodejs.yml
 [typescript]: https://www.typescriptlang.org/
 [typescript-5-4]: https://devblogs.microsoft.com/typescript/announcing-typescript-5-4/
-[license-badge]: https://img.shields.io/badge/license-APLv2-blue.svg
+[license-badge]: https://img.shields.io/badge/license-MIT-blue.svg
 [license]: https://github.com/jsynowiec/node-typescript-boilerplate/blob/main/LICENSE
 [sponsor-badge]: https://img.shields.io/badge/♥-Sponsor-fc0fb5.svg
 [sponsor]: https://github.com/sponsors/jsynowiec
